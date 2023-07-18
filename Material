@@ -1,0 +1,33 @@
+- Day by Day follow each topic from github.
+- Listen video of each topic
+- Practice one and more coding question
+- One coding/quiz question from github.
+
+----------------
+Commands
+- To open VScode: code .
+- To run python program: python3 filename.py
+
+----------------------
+6 months Plan
+1. Introduction to Python
+2. Object Oriented Programming using Python
+3. Data Structures and Algorithms using Python
+(These Three steps take 6 months)
+4. Problem Solving
+	- Hacnkerrank
+	- codeforces
+	- leetcode
+	- signalcode
+	- btyecode
+	
+	
+	
+	Create a new repository on GitHub.
+Open the command prompt/terminal on your local machine.
+Navigate to the directory where your Python file is located using the cd command.
+Initialize a new Git repository in the directory using the git init command.
+Add the Python file to the repository using the git add filename.py command.
+Commit the changes to the repository using the git commit -m "commit message" command.
+Set the remote repository URL using the git remote add origin <remote repository URL> command.
+Push the changes to the remote repository using the git push -u origin master command.
